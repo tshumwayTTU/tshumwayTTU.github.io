@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE/editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
